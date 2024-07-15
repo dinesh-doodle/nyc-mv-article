@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@400..700&display=swap');
+
+body {
+  font-family: "Domine", serif;
+}
+
+.domine-normal {
+  font-family: "Domine", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.domine-medium {
+  font-family: "Domine", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.domine-semi-bold {
+  font-family: "Domine", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.domine-bold {
+  font-family: "Domine", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+h1 {
+  text-align: center;
+}
+
+.Wrapper{
+  display: flex;
+}
+
+.Container{
+  max-width: 80%;
+  margin: 0 auto;
+}

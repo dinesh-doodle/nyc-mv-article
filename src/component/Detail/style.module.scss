@@ -1,0 +1,21 @@
+.Wrapper {
+    overflow: hidden;  
+    padding: 10px 16px;
+    position: relative;
+    border: 1px solid #ebebeb;    
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    box-shadow: 0 1px 4px rgba(102, 102, 102, 0.15);   
+    height: fit-content;
+    max-width: 350px;
+    width: 100%;
+    min-width: 350px;
+}
+
+.closeBtn{
+    text-align: end;
+}
+
+.publishedDate, .byLine{
+    font-size: 10px;  
+}
