@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nyc-mv-article/static/css/main.45f0f4f6.css",
+    "main.js": "/nyc-mv-article/static/js/main.b48d8211.js",
+    "static/js/453.b4f3740b.chunk.js": "/nyc-mv-article/static/js/453.b4f3740b.chunk.js",
+    "index.html": "/nyc-mv-article/index.html",
+    "main.45f0f4f6.css.map": "/nyc-mv-article/static/css/main.45f0f4f6.css.map",
+    "main.b48d8211.js.map": "/nyc-mv-article/static/js/main.b48d8211.js.map",
+    "453.b4f3740b.chunk.js.map": "/nyc-mv-article/static/js/453.b4f3740b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45f0f4f6.css",
+    "static/js/main.b48d8211.js"
+  ]
+}
